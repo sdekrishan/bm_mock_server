@@ -1,0 +1,602 @@
+[
+    {
+      "id": 1,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/7d1680d113ac45f0aed51235fdae9ab4.jpg",
+      "name": "Slice Of Life"
+    },
+    {
+      "id": 2,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/5f288ca92f1c40e1a356873885f4482d.png",
+      "name": "The Art Of Thinking Clearly"
+    },
+    {
+      "id": 3,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7ee2df007d7a4961947bd5b76e8e469d.png",
+      "name": "Improve your Digestive System with Yoga"
+    },
+    {
+      "id": 4,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/5ae0cd1447954fba9f563de8adbb1a4e.png",
+      "name": "Chanakya Niti"
+    },
+    {
+      "id": 5,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/5d4aa0f4b56440d69dc926ff0686ef7b.png",
+      "name": "The Courage To Be Disliked"
+    },
+    {
+      "id": 6,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/08b9daea2f02462f852da17abe8b0ca6.png",
+      "name": "The Mastery of Love"
+    },
+    {
+      "id": 7,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/00b9bd2bd30d4d84abc1571de2102f5b.jpg",
+      "name": "The Art Of Joyful Living"
+    },
+    {
+      "id": 8,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/dc1f13adf70049b3a25709e744264c07.png",
+      "name": "The Charisma Myth: How to engage, Influence and Motivate People"
+    },
+    {
+      "id": 9,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/8ad63df091854bd9b2ed8d4a1c1b5531.png",
+      "name": "Don't Make New Year Resolution"
+    },
+    {
+      "id": 10,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/182d64005e6b4390b14c03d96eb45698.png",
+      "name": "Master Your Time Master Your Life"
+    },
+    {
+      "id": 11,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/4ac355f7bac54a95b83bba09e707a80c.jpeg",
+      "name": "The Indistractable: How to Control Your Attention and Choose Your Life"
+    },
+    {
+      "id": 12,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/b1a91608208c4be793f9a10dd33e0f73.png",
+      "name": "The Defining Decade"
+    },
+    {
+      "id": 13,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/b28c3a394eb242979b55ba9d06cef604.png",
+      "name": "Mastery"
+    },
+    {
+      "id": 14,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/03f3fe8d0ddf49fc8838ecfa41bae093.png",
+      "name": "Dream with Your Eyes Open"
+    },
+    {
+      "id": 15,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/fcfac634aaa14d299f595f64b2345bc0.png",
+      "name": "Booming Digital Stars"
+    },
+    {
+      "id": 16,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/282a97c5f6534f7fb105861552919657.png",
+      "name": "The Way Of Integrity"
+    },
+    {
+      "id": 17,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/86455d25740b404ba0c6019ee45b51ac.jpeg",
+      "name": "Is it a Good Strategy or a Bad Strategy?"
+    },
+    {
+      "id": 18,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/c3e6ca00a26a47b9905dc29a773aa2ae.png",
+      "name": "The Value Of Everything"
+    },
+    {
+      "id": 19,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/2c1c02a9e373415995ae1e08a5950661.png",
+      "name": "The Lazy Genius way"
+    },
+    {
+      "id": 20,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/6308ee2f99ee4820bb892568bd4e8ab7.jpeg",
+      "name": "A Setback Is a Setup for a Comeback"
+    },
+    {
+      "id": 21,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/2eb6e28206004e3496858e70306e8d59.png",
+      "name": "Crazy is a Compliment"
+    },
+    {
+      "id": 22,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/10bdf288653040a680007ae2f0c5010a.png",
+      "name": "Benefits for Women in India"
+    },
+    {
+      "id": 23,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/9acc3e24519044429bf6d411ccab16f2.png",
+      "name": "You Can"
+    },
+    {
+      "id": 24,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/063ca915318a46c88f2da0399fd10592.png",
+      "name": "Declutter Your Mind"
+    },
+    {
+      "id": 25,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/060cf89ef2f24ffbae1efdeb5ce59dc6.png",
+      "name": "Learn to Earn"
+    },
+    {
+      "id": 26,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/acdde765cee84b0fb55660b91c163f60.jpeg",
+      "name": "Kya Aap Jante Hai?"
+    },
+    {
+      "id": 27,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/62bed4dc841a4bd39154622ea5f95602.png",
+      "name": "Blink"
+    },
+    {
+      "id": 28,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/9ce5cb7bde7e4e5d81248053feff712a.png",
+      "name": "Strengths Finder 2.0"
+    },
+    {
+      "id": 29,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/1311ff48950541a099b4f0d6d3ba9b0d.jpg",
+      "name": "Bhagvadgeeta ke 11 Paath - Jeevan ko Dijiye Nayi Disha"
+    },
+    {
+      "id": 30,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/3a7c78f6437b4bd790dafdf7af5503c6.jpg",
+      "name": "21 Days to Positive Approach"
+    },
+    {
+      "id": 31,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/65c22a409e6a4ad5bc25e98fa68f0f7f.png",
+      "name": "What Your Customer Wants And Can't Tell You"
+    },
+    {
+      "id": 32,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/d41ae96ff0ae41fb98ba0dfd0c2cd377.png",
+      "name": "How To Decide"
+    },
+    {
+      "id": 33,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/113341fba2eb44feb8d872621717a69a.png",
+      "name": "Secret Door to Success"
+    },
+    {
+      "id": 34,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/5fb3b500c03f4b2cb51e6897e2852682.png",
+      "name": "Born Again"
+    },
+    {
+      "id": 35,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/0146f54f03b84126a0fe02311ddc0c60.png",
+      "name": "Ayurvedic Home Remedies"
+    },
+    {
+      "id": 36,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/13f469d9462542a48634e18b8b30f2fc.jpeg",
+      "name": "Enlighten Yourself"
+    },
+    {
+      "id": 37,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/63f2ff83f1e5472db9d5254804cd8b13.png",
+      "name": "Creativity Inc"
+    },
+    {
+      "id": 38,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/d3e847d2b2c54c86a19cf1cb9d6449fe.png",
+      "name": "Heart Thoughts"
+    },
+    {
+      "id": 39,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/c91d41c98085403f88cba6a0bb04b121.png",
+      "name": "The Science Of Success"
+    },
+    {
+      "id": 40,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/456e0b91f9c94dd783be0d5dfafadc2a.png",
+      "name": "Humankind : A Hopeful History"
+    },
+    {
+      "id": 41,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/d99cd875fa0a4dc1bfe67bc952c308df.png",
+      "name": "Give and Take"
+    },
+    {
+      "id": 42,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/9a31d6f929594d7aab112d3365258cf1.png",
+      "name": "The 21 Indispensable Qualities Of A Leader"
+    },
+    {
+      "id": 43,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/f0809a9ba16c49c7947ff5b47d7c47c7.png",
+      "name": "You are what you eat"
+    },
+    {
+      "id": 44,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a59c7adac91549a58390ce6cacd1e200.png",
+      "name": "The Gift of Fear: And Other Survival Signals That Protect Us From Violence"
+    },
+    {
+      "id": 45,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/7f89ac16266445afa36eae33d31a7c1d.png",
+      "name": "Cold Hard Truth On Men, Women, And Money"
+    },
+    {
+      "id": 46,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/6e187d97431e4b22b32fc12d9bbe416b.png",
+      "name": "Storm in a Teacup"
+    },
+    {
+      "id": 47,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/24a79504436d44b2bdd4c5495996ba6d.png",
+      "name": "The War of Art"
+    },
+    {
+      "id": 48,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/6d4f1c2b40624718835266b8cc583daf.png",
+      "name": "The Startup Owner's Manual"
+    },
+    {
+      "id": 49,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/b8370863cfaa43c6b20e454962ac4796.png",
+      "name": "The Culture Code"
+    },
+    {
+      "id": 50,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/cf27575fd84f4cac86995224b43a84f3.jpg",
+      "name": "जिंदगी के हर पड़ाव में खुशी आपके साथ: सोच में \"जरा-सा\" बदलाव | लेखक - आर. एस. भाम्भू"
+    },
+    {
+      "id": 51,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/2b30542cecdb471e9071f07e583b87a1.png",
+      "name": "Simple Abundance"
+    },
+    {
+      "id": 52,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/9df65123863d41f6b2fe45cca7ead9c6.png",
+      "name": "The Everyday Hero Manifesto"
+    },
+    {
+      "id": 53,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/b7aa94c5826e40daa83ddffa70eeb721.png",
+      "name": "Drive"
+    },
+    {
+      "id": 54,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ceaa3b0ee8be4393aa00d103b7ee99bc.png",
+      "name": "The Making of a Manager"
+    },
+    {
+      "id": 55,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/865f859e9be54430a4d2110a720bb1f5.png",
+      "name": "The Discomfort Zone"
+    },
+    {
+      "id": 56,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/242045bd0ec14204b34e6fa11154e0ee.png",
+      "name": "The Design of Everyday Things"
+    },
+    {
+      "id": 57,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/67a40556ee69470abaa08d32f8c23a0e.png",
+      "name": "Many Lives, Many Masters"
+    },
+    {
+      "id": 58,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/0ee7d4f7b3ec44b098fd63497b773758.png",
+      "name": "The Everything Store : Jeff Bezos And The Age Of Amazon"
+    },
+    {
+      "id": 59,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/60eac3676d214443a47d432a7ec04106.png",
+      "name": "High IQ: What Is Your IndiaQuotient?"
+    },
+    {
+      "id": 60,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/39d2b7695c0f4ceea9fc76500d96e3d4.jpg",
+      "name": "Self Improvement Series"
+    },
+    {
+      "id": 61,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/bbaf7b43ef05460baaf0baef4edbe4a3.png",
+      "name": "Outsider"
+    },
+    {
+      "id": 62,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/ff7bf0a09cab488e92db4ff78418f4a9.png",
+      "name": "Delivering Happiness"
+    },
+    {
+      "id": 63,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/978d8fe158f3451daf9f7c6344cc487f.png",
+      "name": "The Inner Secret : A journey of Self-Discovery in Search of Something Within"
+    },
+    {
+      "id": 64,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/533d16c1594f4c62b9d57ab1f108aac9.png",
+      "name": "The Chimp Paradox"
+    },
+    {
+      "id": 65,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/0b71323b86684d5292efc7b6ee4523a4.png",
+      "name": "Switch: How to Change Things When Change Is Hard"
+    },
+    {
+      "id": 66,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/6c10114ea4c84a4c8ed1f52f29a9fd9d.jpeg",
+      "name": "Calling bullshit"
+    },
+    {
+      "id": 67,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/01a0be870549453facf8acc914b91a3f.png",
+      "name": "How to Fight PCOD?"
+    },
+    {
+      "id": 68,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/d3c418a0f3494696a69182b81f00aab9.png",
+      "name": "Talent Is Overrated"
+    },
+    {
+      "id": 69,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/ed28782d328d4e069dad41d67d369047.png",
+      "name": "Dr Love - Love Tips"
+    },
+    {
+      "id": 70,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/9d664b18a54e41b28179f95087b22a2b.jpg",
+      "name": "The Magic Ladder to Success"
+    },
+    {
+      "id": 71,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/66cc6d2a50da4d5088b4b96015d5a37b.png",
+      "name": "The Go-Giver"
+    },
+    {
+      "id": 72,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/5e8150124780429588f53c909e1b2359.png",
+      "name": "No Future Without Forgiveness"
+    },
+    {
+      "id": 73,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/40efae37f0704009976f488b23268878.png",
+      "name": "Lean In : Women, Work, and the Will to Lead"
+    },
+    {
+      "id": 74,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/20978c12b75b4475b3bc6155d86e34f1.png",
+      "name": "Zen and the Art of Motorcycle Maintenance"
+    },
+    {
+      "id": 75,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/13e214fe39484c77ada347dba6f10358.png",
+      "name": "Educated"
+    },
+    {
+      "id": 76,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/cb9b6fb6ec4c4f23bf3e14f769c0585c.png",
+      "name": "Getting To Yes"
+    },
+    {
+      "id": 77,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/893f08b1e54744fa8bf573e9e26cee67.png",
+      "name": "Acres of Diamond"
+    },
+    {
+      "id": 78,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/de5476899b0a4224b6931ce979f63130.png",
+      "name": "Rising Careers In Gaming"
+    },
+    {
+      "id": 79,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/74b30642e78642699a5008601707447d.jpg",
+      "name": "A Really Good Day"
+    },
+    {
+      "id": 80,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/a3ab1f8138c247dd8938dc3236d0484d.png",
+      "name": "Upgrade Yourself"
+    },
+    {
+      "id": 81,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/5bb13091d94245bba739690406451a71.png",
+      "name": "The Long Game"
+    },
+    {
+      "id": 82,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/c2b3694a42e8482fa326a1d732ad3427.png",
+      "name": "What You Do Is Who You Are"
+    },
+    {
+      "id": 83,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/67b587b40acc40fb9aba22a0abdfbbc9.png",
+      "name": "Jeevansathi 101"
+    },
+    {
+      "id": 84,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/72a77880bb98413eba74293ef36ecd24.png",
+      "name": "Stumbling On Happiness"
+    },
+    {
+      "id": 85,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/78b75fafc2b740c98c4201772f293a72.png",
+      "name": "Tipping Point"
+    },
+    {
+      "id": 86,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/df8fe4a64e7e4f6aaa7d89090e04d08c.png",
+      "name": "On Writing: A Memoir of the Craft"
+    },
+    {
+      "id": 87,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/dd21a6bc324c4c57bb1d4dcff8450202.png",
+      "name": "Akhada : The Authorized Biography of Mahavir Singh Phogat"
+    },
+    {
+      "id": 88,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/9df388d8998b469984f4261f5652f7dd.png",
+      "name": "How to live on 24 hours a day"
+    },
+    {
+      "id": 89,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/7d11943f3228411aa6b48775cdbc71c9.jpg",
+      "name": "Ishq after Marriage"
+    },
+    {
+      "id": 90,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/6b0b36b0f6a34288afc5edb9b580f59d.png",
+      "name": "शतायु जीवन के सूत्र"
+    },
+    {
+      "id": 91,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/1b48ffb3591a4b4db0e59ebdd811fc3c.png",
+      "name": "Eat, Pray, Love"
+    },
+    {
+      "id": 92,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/a5808f2a21d841fd939120c405711527.png",
+      "name": "Think Like A Rocket Scientist"
+    },
+    {
+      "id": 93,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/acc2f6cee2e648a7a59e395d22bd9138.png",
+      "name": "How Not To Die"
+    },
+    {
+      "id": 94,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/d77adb331bfa47218880327e5a9e0b58.png",
+      "name": "How To Prevent The Next Pandemic"
+    },
+    {
+      "id": 95,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/c4a8ae32a78b4c6eb336e0b4e24e8277.png",
+      "name": "Small Giants"
+    },
+    {
+      "id": 96,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/6ed8714bc17a479c95769da83d28b7fc.jpg",
+      "name": "Conceive It! Achieve It!"
+    },
+    {
+      "id": 97,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/407427fccbef406ea0659142f7fa4e67.png",
+      "name": "The Science Of Being Well"
+    },
+    {
+      "id": 98,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/df02e38ba2e645cdb646259767dd990b.png",
+      "name": "The Epic Rise And Fall Of WeWork"
+    },
+    {
+      "id": 99,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/7a0c168e96684023b65b13dd39fe1da5.png",
+      "name": "Zero EMI- Unlock Your Financial Freedom"
+    },
+    {
+      "id": 100,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/ecad7afc9b734fe8acef70f59e1cee55.jpg",
+      "name": "The CEO Next Door"
+    },
+    {
+      "id": 101,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/f56f4b39c97349558aefb4583d9ff020.png",
+      "name": "Everest Par Tiranga"
+    },
+    {
+      "id": 102,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/b0a0df83355743008b69076ece8d4526.png",
+      "name": "Pravin Tambe - An Inspirational Story"
+    },
+    {
+      "id": 103,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/77a9774a770347ada23bb8c092b6779e.png",
+      "name": "Prince Of Kolkata - Sourav Ganguly"
+    },
+    {
+      "id": 104,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/da72d46aacad4fe390520a919dd0b726.png",
+      "name": "Grit"
+    },
+    {
+      "id": 105,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/d2643e6a5ece4981a3b57be721d50e54.png",
+      "name": "Har Sapna Kuch Kehta Hai"
+    },
+    {
+      "id": 106,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/1ec070c883504c988d62b401eef01768.jpg",
+      "name": "Bharat Ki Prasiddh Ladhaiyaan"
+    },
+    {
+      "id": 107,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/4866c49c4f694e0baab4776615ad7491.png",
+      "name": "The Purpose Driven Life: What On Earth Am I Here For?"
+    },
+    {
+      "id": 108,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/aa1bba5eca084c0093ef0a1a8a0c70de.png",
+      "name": "Golden Shooter Abhinav Bindra"
+    },
+    {
+      "id": 109,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/6fb5ea5d0b6e42909db88ddb50e2567e.png",
+      "name": "Jeevan Ka Smartphone"
+    },
+    {
+      "id": 110,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/f26cf403c8894ef89743094fb0d15d64.jpg",
+      "name": "अनोखे आयुर्वेदिक उपचार"
+    },
+    {
+      "id": 111,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/3b4090820cc64f18907de855ea26dd0e.png",
+      "name": "Haariye Na Himmat | Writer - Shree Ram Sharma Acharya"
+    },
+    {
+      "id": 112,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/f9e8aaa6b8244cef9c816c7ba473aff5.png",
+      "name": "Saina Nehwal"
+    },
+    {
+      "id": 113,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/64f2056d139b4e17acc01635cbff0f39.png",
+      "name": "Negotiation"
+    },
+    {
+      "id": 114,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/4b4a799dcf834e9da49a620f0dd0447f.jpg",
+      "name": "Money hai to Honey Hai"
+    },
+    {
+      "id": 115,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/channel_icons/dd1c190c2dfa434d9cde6fc1278dd130.png",
+      "name": "Ek Ghante mein paiye Gehri Neend"
+    },
+    {
+      "id": 116,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/3ead4502cfb34bbc8d39d34ac6808d41.jpg",
+      "name": "It's okay to cry Sushant Singh Rajput"
+    },
+    {
+      "id": 117,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/e983a4d5ac174b5ca1be4a8284d86da2.jpg",
+      "name": "Pratham antariksh yatri yuri gagrin | Writer - Rakesh sharma"
+    },
+    {
+      "id": 118,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/d5d851b0034747ce9b90e35422ea5a32.jpg",
+      "name": "फल बेचने वाला बना Filmy सितारा दिलीप कुमार (भाग-1)"
+    },
+    {
+      "id": 119,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/7ea8efe272cd4e16a4fdce2ec78e91b5.jpg",
+      "name": "Money: Master the Game"
+    },
+    {
+      "id": 120,
+      "img": "https://images.cdn.kukufm.com/f:webp/https://s3.ap-south-1.amazonaws.com/kukufm/cu_icons/c52a1ffee038408fb2e1be85b587c0f8.jpg",
+      "name": "The Brain"
+    }
+   ]
